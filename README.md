@@ -1,7 +1,9 @@
 # sql_hotel_management_system
 
 Hotel Management System
+
 Overview
+
 A comprehensive application to automate hotel operations, including room reservations, guest management, billing, and reporting.
 
 **Features**
